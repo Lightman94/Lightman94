@@ -48,12 +48,6 @@ Git • GitHub • Linux • Nginx • PM2
 
 ---
 
-## 📌 Featured Projects
-
-> Selected projects will be added here.
-
----
-
 ## 📈 Currently Learning
 
 - Software Architecture
@@ -66,8 +60,8 @@ Git • GitHub • Linux • Nginx • PM2
 
 ## 🤝 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
-[Email](YOUR_EMAIL)
+[Website](raycodelab.com)
+[Email](rasouldavari69@gmail.com)
 
 ---
 
